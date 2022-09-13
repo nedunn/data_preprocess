@@ -4,7 +4,7 @@ This repo contains python code to preprocess some data.
 # Getting started with git
 **Clone repo using ssh key**  
 ```sh
-git clone git@
+git clone git@github.com:nedunn/data_preprocess.git
 ```
 
 **Add file/files to git**
